@@ -1,15 +1,23 @@
 # java-resources
-A curated list of detailed posts related to Java topics
+A curated list of detailed posts related to Java topics.
+
+Please send PRs, if you find any detailed articles/videos those can be added here.
+
 # Topics
 
-## Core Java
+#### Core Java
 - [The Ultimate Guide to Nested Classes in Java](https://www.stackchief.com/tutorials/The%20Ultimate%20Guide%20to%20Nested%20Classes%20in%20Java)
-## Multi-threading
-## Collections
-## Lambdas
-## Streams
+#### Multi-threading
+#### Collections
+#### Lambdas
+#### Streams
 
-## Core Spring
-## Spring Boot
-## Spring MVC
-## JPA
+#### Core Spring
+#### Spring Boot
+#### Spring MVC
+#### JPA
+#### JWT
+- [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+
+# Videos
+[OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
