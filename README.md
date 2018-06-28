@@ -19,7 +19,7 @@ Please send PRs, if you find any detailed articles/videos those can be added her
 #### JWT
 - [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 
-#### OAUTH2
+#### OAuth 2
 - [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 # Videos
 [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
