@@ -5,6 +5,11 @@ Please send PRs, if you find any detailed articles/videos those can be added her
 
 # Topics
 
+### JVM Architecture
+- [The JVM Architecture Explained](https://dzone.com/articles/jvm-architecture-explained)
+- [JVM Architecture](https://www.youtube.com/watch?v=dncpVFP1JeQ)
+- [JVM Architecture](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
+
 #### Core Java
 - [The Ultimate Guide to Nested Classes in Java](https://www.stackchief.com/tutorials/The%20Ultimate%20Guide%20to%20Nested%20Classes%20in%20Java)
 #### Multi-threading
